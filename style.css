@@ -130,7 +130,7 @@ body{
 .mainbanner{
     background: url(images/main.jpg) no-repeat center;
     height: 609px;
-   
+    overflow: hidden;
 }
 .mainin{
     width: 1320px;
